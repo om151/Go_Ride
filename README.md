@@ -74,6 +74,12 @@ Ensure you have the following installed on your system:
 
 To fully experience the application, you need to create two different accounts:
 
+### Demo Video
+
+Check out our demo video to see the application in action:
+[Watch Demo Video](https://drive.google.com/file/d/1lB7ZW255jL2eDHtIYnfj0guBZRiYP8t6/view?usp=sharing)
+
+
 1. **Captain Account**:
    - Open the application in one browser window
    - Click on "Register as Captain"
