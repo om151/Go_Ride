@@ -63,7 +63,8 @@ Ensure you have the following installed on your system:
    npm run dev
    ```
 
-   ### Running the Project
+
+### Running the Project
 
 1. Start the backend server as described in the Backend Setup section.
 2. Start the frontend development server as described in the Frontend Setup section.
