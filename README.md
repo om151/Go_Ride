@@ -78,11 +78,19 @@ To fully experience the application, you need to create two different accounts:
    - Open the application in one browser window
    - Click on "Register as Captain"
    - Fill in the required details
+   - OR USE TEST ACCOUNT TO LOGIN
+   - Test credentials:
+     - Email: test@captain.com
+     - Password: testcaptain
 
 2. **User Account**:
    - Open the application in a different browser window
    - Click on "Register as User"
    - Fill in the required details
+   - OR USE TEST ACCOUNT TO LOGIN
+   - Test credentials:
+     - Username: test@user.com
+     - Password: testuser123
    - Start requesting rides
 
 Note: Using separate browser windows ensures you can be logged in as both user types simultaneously.
