@@ -111,15 +111,27 @@ Note: Using separate browser windows ensures you can be logged in as both user t
    - Click "Find Trip" to send request
    - Wait for captain acceptance
 
-4. **Trip Start**:
+4. **Trip Acceptance (Captain)**:
+   - Log in to captain account
+   - View incoming ride requests
+   - Accept the ride request
+   - Navigate to pickup location
+
+5. **Trip Start**:
    - Captain arrives at pickup location
    - Share the OTP with captain
    - Captain verifies OTP to start trip
 
-5. **During Trip**:
+6. **During Trip**:
    - Both user and captain can track journey progress
    - Real-time location updates on map
    - Estimated time of arrival displayed
+
+7. **End Trip**:
+   - Captain arrives at destination
+   - Captain ends ride through app
+   - Fare is calculated and displayed
+   - Trip summary shown to both parties
 
 ### Project Structure
 
